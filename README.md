@@ -30,4 +30,7 @@ Contributions are welcome. Please fork the repository and submit a pull request 
 
 ## License
 
-Specify your license here, e.g., MIT License.
+## License
+
+Event-Ease is released under the [MIT License](LICENSE).
+
